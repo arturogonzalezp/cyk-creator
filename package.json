@@ -1,0 +1,23 @@
+{
+  "name": "cyk-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturogonzalezp/cyk-creator.git"
+  },
+  "author": "César Arturo González",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturogonzalezp/cyk-creator/issues"
+  },
+  "homepage": "https://github.com/arturogonzalezp/cyk-creator#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
